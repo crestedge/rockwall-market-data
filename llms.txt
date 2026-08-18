@@ -1,0 +1,23 @@
+# Rockwall County Housing Market Report
+
+> Monthly residential real estate statistics for Rockwall County, Texas, covering
+> the cities of Rockwall, Heath, Fate, McLendon-Chisholm, and Royse City, plus the
+> county luxury segment. Published by The Crestedge Group at Keller Williams Rockwall. Source data is NTREIS MLS via 10K
+> Research and InfoSparks. Current through July 2026.
+
+## Reports
+- [Rockwall County overview](https://crestedge.github.io/rockwall-market-data/): All Rockwall County markets side by side.
+- [Rockwall](https://crestedge.github.io/rockwall-market-data/rockwall/): The county seat, with the most established infrastructure and the widest waterfront access on Lake Ray Hubbard.
+- [Heath](https://crestedge.github.io/rockwall-market-data/heath/): Larger lots and higher price points, with a quieter character than Rockwall proper.
+- [Fate](https://crestedge.github.io/rockwall-market-data/fate/): One of the most active new construction markets in the county, at lower entry prices.
+- [McLendon-Chisholm](https://crestedge.github.io/rockwall-market-data/mclendon-chisholm/): Acreage and estate properties on the county’s southern side.
+- [Royse City](https://crestedge.github.io/rockwall-market-data/royse-city/): The eastern edge of the county, with the county’s most affordable new construction.
+- [Rockwall County Luxury](https://crestedge.github.io/rockwall-market-data/luxury/): Homes priced at $700,000 and above across Rockwall County.
+
+## Data
+- [market.json](https://crestedge.github.io/rockwall-market-data/market.json): the full time series behind every page,
+  2021-01 through 2026-07, as JSON.
+
+## Contact
+- The Crestedge Group at Keller Williams Rockwall, 550 Vigor Way Ste. 200, Rockwall, TX 75087. 214-803-4444.
+- [livinginrockwall.com](https://livinginrockwall.com)
