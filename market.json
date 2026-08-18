@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14",
-  "history_months": 66,
+  "generated_at": "2026-08-18",
+  "history_months": 67,
   "source": "NTREIS via 10K Research / InfoSparks (live share links)",
   "submarkets": [
     "fate",
@@ -381,13 +381,13 @@
       "submarket": "fate",
       "metric": "median_sale_price",
       "month": "2026-02",
-      "value": 360030
+      "value": 345000
     },
     {
       "submarket": "fate",
       "metric": "median_sale_price",
       "month": "2026-03",
-      "value": 334000
+      "value": 337000
     },
     {
       "submarket": "fate",
@@ -405,7 +405,13 @@
       "submarket": "fate",
       "metric": "median_sale_price",
       "month": "2026-06",
-      "value": 400525
+      "value": 415850
+    },
+    {
+      "submarket": "fate",
+      "metric": "median_sale_price",
+      "month": "2026-07",
+      "value": 370000
     },
     {
       "submarket": "rockwall",
@@ -789,7 +795,7 @@
       "submarket": "rockwall",
       "metric": "median_sale_price",
       "month": "2026-04",
-      "value": 487000
+      "value": 490000
     },
     {
       "submarket": "rockwall",
@@ -801,7 +807,13 @@
       "submarket": "rockwall",
       "metric": "median_sale_price",
       "month": "2026-06",
-      "value": 489995
+      "value": 497750
+    },
+    {
+      "submarket": "rockwall",
+      "metric": "median_sale_price",
+      "month": "2026-07",
+      "value": 529500
     },
     {
       "submarket": "heath",
@@ -1197,7 +1209,13 @@
       "submarket": "heath",
       "metric": "median_sale_price",
       "month": "2026-06",
-      "value": 750000
+      "value": 762500
+    },
+    {
+      "submarket": "heath",
+      "metric": "median_sale_price",
+      "month": "2026-07",
+      "value": 836934
     },
     {
       "submarket": "mclendon",
@@ -1593,7 +1611,13 @@
       "submarket": "mclendon",
       "metric": "median_sale_price",
       "month": "2026-06",
-      "value": 580212
+      "value": 581424
+    },
+    {
+      "submarket": "mclendon",
+      "metric": "median_sale_price",
+      "month": "2026-07",
+      "value": 690000
     },
     {
       "submarket": "royse",
@@ -1983,13 +2007,19 @@
       "submarket": "royse",
       "metric": "median_sale_price",
       "month": "2026-05",
-      "value": 328249
+      "value": 331023
     },
     {
       "submarket": "royse",
       "metric": "median_sale_price",
       "month": "2026-06",
-      "value": 349995
+      "value": 350000
+    },
+    {
+      "submarket": "royse",
+      "metric": "median_sale_price",
+      "month": "2026-07",
+      "value": 340713
     },
     {
       "submarket": "luxury",
@@ -2379,13 +2409,19 @@
       "submarket": "luxury",
       "metric": "median_sale_price",
       "month": "2026-05",
-      "value": 835000
+      "value": 827500
     },
     {
       "submarket": "luxury",
       "metric": "median_sale_price",
       "month": "2026-06",
-      "value": 890000
+      "value": 899000
+    },
+    {
+      "submarket": "luxury",
+      "metric": "median_sale_price",
+      "month": "2026-07",
+      "value": 948606
     },
     {
       "submarket": "fate",
@@ -2739,7 +2775,7 @@
       "submarket": "fate",
       "metric": "avg_sale_price",
       "month": "2025-11",
-      "value": 401033
+      "value": 403165
     },
     {
       "submarket": "fate",
@@ -2757,13 +2793,13 @@
       "submarket": "fate",
       "metric": "avg_sale_price",
       "month": "2026-02",
-      "value": 381264
+      "value": 379333
     },
     {
       "submarket": "fate",
       "metric": "avg_sale_price",
       "month": "2026-03",
-      "value": 366705
+      "value": 368022
     },
     {
       "submarket": "fate",
@@ -2781,7 +2817,13 @@
       "submarket": "fate",
       "metric": "avg_sale_price",
       "month": "2026-06",
-      "value": 437474
+      "value": 439657
+    },
+    {
+      "submarket": "fate",
+      "metric": "avg_sale_price",
+      "month": "2026-07",
+      "value": 396335
     },
     {
       "submarket": "rockwall",
@@ -3165,19 +3207,25 @@
       "submarket": "rockwall",
       "metric": "avg_sale_price",
       "month": "2026-04",
-      "value": 507600
+      "value": 509050
     },
     {
       "submarket": "rockwall",
       "metric": "avg_sale_price",
       "month": "2026-05",
-      "value": 539281
+      "value": 542420
     },
     {
       "submarket": "rockwall",
       "metric": "avg_sale_price",
       "month": "2026-06",
-      "value": 551293
+      "value": 553428
+    },
+    {
+      "submarket": "rockwall",
+      "metric": "avg_sale_price",
+      "month": "2026-07",
+      "value": 566459
     },
     {
       "submarket": "heath",
@@ -3573,7 +3621,13 @@
       "submarket": "heath",
       "metric": "avg_sale_price",
       "month": "2026-06",
-      "value": 923094
+      "value": 931171
+    },
+    {
+      "submarket": "heath",
+      "metric": "avg_sale_price",
+      "month": "2026-07",
+      "value": 945902
     },
     {
       "submarket": "mclendon",
@@ -3969,7 +4023,13 @@
       "submarket": "mclendon",
       "metric": "avg_sale_price",
       "month": "2026-06",
-      "value": 701865
+      "value": 713800
+    },
+    {
+      "submarket": "mclendon",
+      "metric": "avg_sale_price",
+      "month": "2026-07",
+      "value": 721677
     },
     {
       "submarket": "royse",
@@ -4317,7 +4377,7 @@
       "submarket": "royse",
       "metric": "avg_sale_price",
       "month": "2025-10",
-      "value": 374312
+      "value": 373636
     },
     {
       "submarket": "royse",
@@ -4347,7 +4407,7 @@
       "submarket": "royse",
       "metric": "avg_sale_price",
       "month": "2026-03",
-      "value": 376931
+      "value": 375135
     },
     {
       "submarket": "royse",
@@ -4359,13 +4419,19 @@
       "submarket": "royse",
       "metric": "avg_sale_price",
       "month": "2026-05",
-      "value": 364433
+      "value": 363416
     },
     {
       "submarket": "royse",
       "metric": "avg_sale_price",
       "month": "2026-06",
-      "value": 411199
+      "value": 405553
+    },
+    {
+      "submarket": "royse",
+      "metric": "avg_sale_price",
+      "month": "2026-07",
+      "value": 405325
     },
     {
       "submarket": "luxury",
@@ -4755,13 +4821,19 @@
       "submarket": "luxury",
       "metric": "avg_sale_price",
       "month": "2026-05",
-      "value": 886022
+      "value": 883627
     },
     {
       "submarket": "luxury",
       "metric": "avg_sale_price",
       "month": "2026-06",
-      "value": 1092827
+      "value": 1092772
+    },
+    {
+      "submarket": "luxury",
+      "metric": "avg_sale_price",
+      "month": "2026-07",
+      "value": 1114915
     },
     {
       "submarket": "fate",
@@ -5151,13 +5223,19 @@
       "submarket": "fate",
       "metric": "homes_for_sale",
       "month": "2026-05",
-      "value": 174
+      "value": 175
     },
     {
       "submarket": "fate",
       "metric": "homes_for_sale",
       "month": "2026-06",
-      "value": 179
+      "value": 177
+    },
+    {
+      "submarket": "fate",
+      "metric": "homes_for_sale",
+      "month": "2026-07",
+      "value": 185
     },
     {
       "submarket": "rockwall",
@@ -5529,31 +5607,37 @@
       "submarket": "rockwall",
       "metric": "homes_for_sale",
       "month": "2026-02",
-      "value": 384
+      "value": 385
     },
     {
       "submarket": "rockwall",
       "metric": "homes_for_sale",
       "month": "2026-03",
-      "value": 413
+      "value": 415
     },
     {
       "submarket": "rockwall",
       "metric": "homes_for_sale",
       "month": "2026-04",
-      "value": 466
+      "value": 469
     },
     {
       "submarket": "rockwall",
       "metric": "homes_for_sale",
       "month": "2026-05",
-      "value": 466
+      "value": 469
     },
     {
       "submarket": "rockwall",
       "metric": "homes_for_sale",
       "month": "2026-06",
-      "value": 469
+      "value": 474
+    },
+    {
+      "submarket": "rockwall",
+      "metric": "homes_for_sale",
+      "month": "2026-07",
+      "value": 477
     },
     {
       "submarket": "heath",
@@ -5949,7 +6033,13 @@
       "submarket": "heath",
       "metric": "homes_for_sale",
       "month": "2026-06",
-      "value": 196
+      "value": 194
+    },
+    {
+      "submarket": "heath",
+      "metric": "homes_for_sale",
+      "month": "2026-07",
+      "value": 185
     },
     {
       "submarket": "mclendon",
@@ -6345,7 +6435,13 @@
       "submarket": "mclendon",
       "metric": "homes_for_sale",
       "month": "2026-06",
-      "value": 94
+      "value": 93
+    },
+    {
+      "submarket": "mclendon",
+      "metric": "homes_for_sale",
+      "month": "2026-07",
+      "value": 98
     },
     {
       "submarket": "royse",
@@ -6693,55 +6789,61 @@
       "submarket": "royse",
       "metric": "homes_for_sale",
       "month": "2025-10",
-      "value": 514
+      "value": 515
     },
     {
       "submarket": "royse",
       "metric": "homes_for_sale",
       "month": "2025-11",
-      "value": 485
+      "value": 486
     },
     {
       "submarket": "royse",
       "metric": "homes_for_sale",
       "month": "2025-12",
-      "value": 440
+      "value": 441
     },
     {
       "submarket": "royse",
       "metric": "homes_for_sale",
       "month": "2026-01",
-      "value": 447
+      "value": 448
     },
     {
       "submarket": "royse",
       "metric": "homes_for_sale",
       "month": "2026-02",
-      "value": 453
+      "value": 455
     },
     {
       "submarket": "royse",
       "metric": "homes_for_sale",
       "month": "2026-03",
-      "value": 457
-    },
-    {
-      "submarket": "royse",
-      "metric": "homes_for_sale",
-      "month": "2026-04",
       "value": 461
     },
     {
       "submarket": "royse",
       "metric": "homes_for_sale",
+      "month": "2026-04",
+      "value": 466
+    },
+    {
+      "submarket": "royse",
+      "metric": "homes_for_sale",
       "month": "2026-05",
-      "value": 457
+      "value": 461
     },
     {
       "submarket": "royse",
       "metric": "homes_for_sale",
       "month": "2026-06",
-      "value": 459
+      "value": 468
+    },
+    {
+      "submarket": "royse",
+      "metric": "homes_for_sale",
+      "month": "2026-07",
+      "value": 520
     },
     {
       "submarket": "luxury",
@@ -7101,42 +7203,48 @@
       "submarket": "luxury",
       "metric": "homes_for_sale",
       "month": "2025-12",
-      "value": 285
+      "value": 286
     },
     {
       "submarket": "luxury",
       "metric": "homes_for_sale",
       "month": "2026-01",
-      "value": 275
+      "value": 276
     },
     {
       "submarket": "luxury",
       "metric": "homes_for_sale",
       "month": "2026-02",
-      "value": 287
+      "value": 288
     },
     {
       "submarket": "luxury",
       "metric": "homes_for_sale",
       "month": "2026-03",
-      "value": 313
+      "value": 315
     },
     {
       "submarket": "luxury",
       "metric": "homes_for_sale",
       "month": "2026-04",
-      "value": 344
+      "value": 346
     },
     {
       "submarket": "luxury",
       "metric": "homes_for_sale",
       "month": "2026-05",
-      "value": 336
+      "value": 339
     },
     {
       "submarket": "luxury",
       "metric": "homes_for_sale",
       "month": "2026-06",
+      "value": 338
+    },
+    {
+      "submarket": "luxury",
+      "metric": "homes_for_sale",
+      "month": "2026-07",
       "value": 337
     },
     {
@@ -7536,6 +7644,12 @@
       "value": 62
     },
     {
+      "submarket": "fate",
+      "metric": "new_listings",
+      "month": "2026-07",
+      "value": 64
+    },
+    {
       "submarket": "rockwall",
       "metric": "new_listings",
       "month": "2021-01",
@@ -7929,7 +8043,13 @@
       "submarket": "rockwall",
       "metric": "new_listings",
       "month": "2026-06",
-      "value": 167
+      "value": 171
+    },
+    {
+      "submarket": "rockwall",
+      "metric": "new_listings",
+      "month": "2026-07",
+      "value": 143
     },
     {
       "submarket": "heath",
@@ -8313,7 +8433,7 @@
       "submarket": "heath",
       "metric": "new_listings",
       "month": "2026-04",
-      "value": 72
+      "value": 70
     },
     {
       "submarket": "heath",
@@ -8326,6 +8446,12 @@
       "metric": "new_listings",
       "month": "2026-06",
       "value": 54
+    },
+    {
+      "submarket": "heath",
+      "metric": "new_listings",
+      "month": "2026-07",
+      "value": 39
     },
     {
       "submarket": "mclendon",
@@ -8722,6 +8848,12 @@
       "metric": "new_listings",
       "month": "2026-06",
       "value": 27
+    },
+    {
+      "submarket": "mclendon",
+      "metric": "new_listings",
+      "month": "2026-07",
+      "value": 28
     },
     {
       "submarket": "royse",
@@ -9120,6 +9252,12 @@
       "value": 136
     },
     {
+      "submarket": "royse",
+      "metric": "new_listings",
+      "month": "2026-07",
+      "value": 161
+    },
+    {
       "submarket": "luxury",
       "metric": "new_listings",
       "month": "2021-01",
@@ -9516,6 +9654,12 @@
       "value": 90
     },
     {
+      "submarket": "luxury",
+      "metric": "new_listings",
+      "month": "2026-07",
+      "value": 85
+    },
+    {
       "submarket": "fate",
       "metric": "median_ppsf",
       "month": "2021-01",
@@ -9885,13 +10029,13 @@
       "submarket": "fate",
       "metric": "median_ppsf",
       "month": "2026-02",
-      "value": 158
+      "value": 160
     },
     {
       "submarket": "fate",
       "metric": "median_ppsf",
       "month": "2026-03",
-      "value": 176
+      "value": 175
     },
     {
       "submarket": "fate",
@@ -9909,6 +10053,12 @@
       "submarket": "fate",
       "metric": "median_ppsf",
       "month": "2026-06",
+      "value": 175
+    },
+    {
+      "submarket": "fate",
+      "metric": "median_ppsf",
+      "month": "2026-07",
       "value": 175
     },
     {
@@ -10293,18 +10443,24 @@
       "submarket": "rockwall",
       "metric": "median_ppsf",
       "month": "2026-04",
-      "value": 190
+      "value": 191
     },
     {
       "submarket": "rockwall",
       "metric": "median_ppsf",
       "month": "2026-05",
-      "value": 195
+      "value": 196
     },
     {
       "submarket": "rockwall",
       "metric": "median_ppsf",
       "month": "2026-06",
+      "value": 187
+    },
+    {
+      "submarket": "rockwall",
+      "metric": "median_ppsf",
+      "month": "2026-07",
       "value": 187
     },
     {
@@ -10701,7 +10857,13 @@
       "submarket": "heath",
       "metric": "median_ppsf",
       "month": "2026-06",
-      "value": 222
+      "value": 224
+    },
+    {
+      "submarket": "heath",
+      "metric": "median_ppsf",
+      "month": "2026-07",
+      "value": 224
     },
     {
       "submarket": "mclendon",
@@ -11097,7 +11259,13 @@
       "submarket": "mclendon",
       "metric": "median_ppsf",
       "month": "2026-06",
-      "value": 191
+      "value": 194
+    },
+    {
+      "submarket": "mclendon",
+      "metric": "median_ppsf",
+      "month": "2026-07",
+      "value": 209
     },
     {
       "submarket": "royse",
@@ -11487,13 +11655,19 @@
       "submarket": "royse",
       "metric": "median_ppsf",
       "month": "2026-05",
-      "value": 153
+      "value": 152
     },
     {
       "submarket": "royse",
       "metric": "median_ppsf",
       "month": "2026-06",
       "value": 160
+    },
+    {
+      "submarket": "royse",
+      "metric": "median_ppsf",
+      "month": "2026-07",
+      "value": 162
     },
     {
       "submarket": "luxury",
@@ -11883,13 +12057,19 @@
       "submarket": "luxury",
       "metric": "median_ppsf",
       "month": "2026-05",
-      "value": 225
+      "value": 226
     },
     {
       "submarket": "luxury",
       "metric": "median_ppsf",
       "month": "2026-06",
-      "value": 237
+      "value": 240
+    },
+    {
+      "submarket": "luxury",
+      "metric": "median_ppsf",
+      "month": "2026-07",
+      "value": 242
     },
     {
       "submarket": "fate",
@@ -12243,7 +12423,7 @@
       "submarket": "fate",
       "metric": "avg_ppsf",
       "month": "2025-11",
-      "value": 163
+      "value": 166
     },
     {
       "submarket": "fate",
@@ -12261,13 +12441,13 @@
       "submarket": "fate",
       "metric": "avg_ppsf",
       "month": "2026-02",
-      "value": 164
+      "value": 165
     },
     {
       "submarket": "fate",
       "metric": "avg_ppsf",
       "month": "2026-03",
-      "value": 172
+      "value": 171
     },
     {
       "submarket": "fate",
@@ -12285,6 +12465,12 @@
       "submarket": "fate",
       "metric": "avg_ppsf",
       "month": "2026-06",
+      "value": 172
+    },
+    {
+      "submarket": "fate",
+      "metric": "avg_ppsf",
+      "month": "2026-07",
       "value": 172
     },
     {
@@ -12657,7 +12843,7 @@
       "submarket": "rockwall",
       "metric": "avg_ppsf",
       "month": "2026-02",
-      "value": 191
+      "value": 190
     },
     {
       "submarket": "rockwall",
@@ -12669,7 +12855,7 @@
       "submarket": "rockwall",
       "metric": "avg_ppsf",
       "month": "2026-04",
-      "value": 191
+      "value": 192
     },
     {
       "submarket": "rockwall",
@@ -12682,6 +12868,12 @@
       "metric": "avg_ppsf",
       "month": "2026-06",
       "value": 199
+    },
+    {
+      "submarket": "rockwall",
+      "metric": "avg_ppsf",
+      "month": "2026-07",
+      "value": 192
     },
     {
       "submarket": "heath",
@@ -13077,7 +13269,13 @@
       "submarket": "heath",
       "metric": "avg_ppsf",
       "month": "2026-06",
-      "value": 238
+      "value": 241
+    },
+    {
+      "submarket": "heath",
+      "metric": "avg_ppsf",
+      "month": "2026-07",
+      "value": 246
     },
     {
       "submarket": "mclendon",
@@ -13473,7 +13671,13 @@
       "submarket": "mclendon",
       "metric": "avg_ppsf",
       "month": "2026-06",
-      "value": 204
+      "value": 206
+    },
+    {
+      "submarket": "mclendon",
+      "metric": "avg_ppsf",
+      "month": "2026-07",
+      "value": 218
     },
     {
       "submarket": "royse",
@@ -13851,7 +14055,7 @@
       "submarket": "royse",
       "metric": "avg_ppsf",
       "month": "2026-03",
-      "value": 164
+      "value": 163
     },
     {
       "submarket": "royse",
@@ -13863,13 +14067,19 @@
       "submarket": "royse",
       "metric": "avg_ppsf",
       "month": "2026-05",
-      "value": 160
+      "value": 159
     },
     {
       "submarket": "royse",
       "metric": "avg_ppsf",
       "month": "2026-06",
-      "value": 185
+      "value": 183
+    },
+    {
+      "submarket": "royse",
+      "metric": "avg_ppsf",
+      "month": "2026-07",
+      "value": 175
     },
     {
       "submarket": "luxury",
@@ -14265,7 +14475,13 @@
       "submarket": "luxury",
       "metric": "avg_ppsf",
       "month": "2026-06",
-      "value": 275
+      "value": 276
+    },
+    {
+      "submarket": "luxury",
+      "metric": "avg_ppsf",
+      "month": "2026-07",
+      "value": 264
     },
     {
       "submarket": "fate",
@@ -14631,7 +14847,7 @@
       "submarket": "fate",
       "metric": "pending_sales",
       "month": "2026-01",
-      "value": 30
+      "value": 31
     },
     {
       "submarket": "fate",
@@ -14661,7 +14877,13 @@
       "submarket": "fate",
       "metric": "pending_sales",
       "month": "2026-06",
-      "value": 33
+      "value": 35
+    },
+    {
+      "submarket": "fate",
+      "metric": "pending_sales",
+      "month": "2026-07",
+      "value": 38
     },
     {
       "submarket": "rockwall",
@@ -15045,7 +15267,7 @@
       "submarket": "rockwall",
       "metric": "pending_sales",
       "month": "2026-04",
-      "value": 89
+      "value": 88
     },
     {
       "submarket": "rockwall",
@@ -15057,7 +15279,13 @@
       "submarket": "rockwall",
       "metric": "pending_sales",
       "month": "2026-06",
-      "value": 90
+      "value": 93
+    },
+    {
+      "submarket": "rockwall",
+      "metric": "pending_sales",
+      "month": "2026-07",
+      "value": 81
     },
     {
       "submarket": "heath",
@@ -15453,6 +15681,12 @@
       "submarket": "heath",
       "metric": "pending_sales",
       "month": "2026-06",
+      "value": 30
+    },
+    {
+      "submarket": "heath",
+      "metric": "pending_sales",
+      "month": "2026-07",
       "value": 28
     },
     {
@@ -15849,6 +16083,12 @@
       "submarket": "mclendon",
       "metric": "pending_sales",
       "month": "2026-06",
+      "value": 14
+    },
+    {
+      "submarket": "mclendon",
+      "metric": "pending_sales",
+      "month": "2026-07",
       "value": 12
     },
     {
@@ -16245,7 +16485,13 @@
       "submarket": "royse",
       "metric": "pending_sales",
       "month": "2026-06",
-      "value": 71
+      "value": 68
+    },
+    {
+      "submarket": "royse",
+      "metric": "pending_sales",
+      "month": "2026-07",
+      "value": 61
     },
     {
       "submarket": "luxury",
@@ -16641,7 +16887,13 @@
       "submarket": "luxury",
       "metric": "pending_sales",
       "month": "2026-06",
-      "value": 47
+      "value": 50
+    },
+    {
+      "submarket": "luxury",
+      "metric": "pending_sales",
+      "month": "2026-07",
+      "value": 53
     },
     {
       "submarket": "fate",
@@ -17013,13 +17265,13 @@
       "submarket": "fate",
       "metric": "median_dom",
       "month": "2026-02",
-      "value": 79
+      "value": 77
     },
     {
       "submarket": "fate",
       "metric": "median_dom",
       "month": "2026-03",
-      "value": 34
+      "value": 36
     },
     {
       "submarket": "fate",
@@ -17037,7 +17289,13 @@
       "submarket": "fate",
       "metric": "median_dom",
       "month": "2026-06",
-      "value": 62
+      "value": 56
+    },
+    {
+      "submarket": "fate",
+      "metric": "median_dom",
+      "month": "2026-07",
+      "value": 47
     },
     {
       "submarket": "rockwall",
@@ -17421,19 +17679,25 @@
       "submarket": "rockwall",
       "metric": "median_dom",
       "month": "2026-04",
-      "value": 53
+      "value": 56
     },
     {
       "submarket": "rockwall",
       "metric": "median_dom",
       "month": "2026-05",
-      "value": 52
+      "value": 50
     },
     {
       "submarket": "rockwall",
       "metric": "median_dom",
       "month": "2026-06",
-      "value": 41
+      "value": 42
+    },
+    {
+      "submarket": "rockwall",
+      "metric": "median_dom",
+      "month": "2026-07",
+      "value": 53
     },
     {
       "submarket": "heath",
@@ -17829,7 +18093,13 @@
       "submarket": "heath",
       "metric": "median_dom",
       "month": "2026-06",
-      "value": 56
+      "value": 55
+    },
+    {
+      "submarket": "heath",
+      "metric": "median_dom",
+      "month": "2026-07",
+      "value": 58
     },
     {
       "submarket": "mclendon",
@@ -18225,7 +18495,13 @@
       "submarket": "mclendon",
       "metric": "median_dom",
       "month": "2026-06",
-      "value": 54
+      "value": 70
+    },
+    {
+      "submarket": "mclendon",
+      "metric": "median_dom",
+      "month": "2026-07",
+      "value": 41
     },
     {
       "submarket": "royse",
@@ -18603,7 +18879,7 @@
       "submarket": "royse",
       "metric": "median_dom",
       "month": "2026-03",
-      "value": 89
+      "value": 92
     },
     {
       "submarket": "royse",
@@ -18615,13 +18891,19 @@
       "submarket": "royse",
       "metric": "median_dom",
       "month": "2026-05",
-      "value": 53
+      "value": 54
     },
     {
       "submarket": "royse",
       "metric": "median_dom",
       "month": "2026-06",
-      "value": 49
+      "value": 54
+    },
+    {
+      "submarket": "royse",
+      "metric": "median_dom",
+      "month": "2026-07",
+      "value": 56
     },
     {
       "submarket": "luxury",
@@ -19011,12 +19293,18 @@
       "submarket": "luxury",
       "metric": "median_dom",
       "month": "2026-05",
-      "value": 45
+      "value": 44
     },
     {
       "submarket": "luxury",
       "metric": "median_dom",
       "month": "2026-06",
+      "value": 35
+    },
+    {
+      "submarket": "luxury",
+      "metric": "median_dom",
+      "month": "2026-07",
       "value": 34
     },
     {
@@ -19389,13 +19677,13 @@
       "submarket": "fate",
       "metric": "avg_dom",
       "month": "2026-02",
-      "value": 105
+      "value": 101
     },
     {
       "submarket": "fate",
       "metric": "avg_dom",
       "month": "2026-03",
-      "value": 53
+      "value": 54
     },
     {
       "submarket": "fate",
@@ -19413,7 +19701,13 @@
       "submarket": "fate",
       "metric": "avg_dom",
       "month": "2026-06",
-      "value": 70
+      "value": 68
+    },
+    {
+      "submarket": "fate",
+      "metric": "avg_dom",
+      "month": "2026-07",
+      "value": 69
     },
     {
       "submarket": "rockwall",
@@ -19785,7 +20079,7 @@
       "submarket": "rockwall",
       "metric": "avg_dom",
       "month": "2026-02",
-      "value": 81
+      "value": 82
     },
     {
       "submarket": "rockwall",
@@ -19797,19 +20091,25 @@
       "submarket": "rockwall",
       "metric": "avg_dom",
       "month": "2026-04",
-      "value": 83
+      "value": 85
     },
     {
       "submarket": "rockwall",
       "metric": "avg_dom",
       "month": "2026-05",
-      "value": 75
+      "value": 74
     },
     {
       "submarket": "rockwall",
       "metric": "avg_dom",
       "month": "2026-06",
-      "value": 80
+      "value": 81
+    },
+    {
+      "submarket": "rockwall",
+      "metric": "avg_dom",
+      "month": "2026-07",
+      "value": 70
     },
     {
       "submarket": "heath",
@@ -20205,7 +20505,13 @@
       "submarket": "heath",
       "metric": "avg_dom",
       "month": "2026-06",
-      "value": 77
+      "value": 76
+    },
+    {
+      "submarket": "heath",
+      "metric": "avg_dom",
+      "month": "2026-07",
+      "value": 78
     },
     {
       "submarket": "mclendon",
@@ -20604,6 +20910,12 @@
       "value": 98
     },
     {
+      "submarket": "mclendon",
+      "metric": "avg_dom",
+      "month": "2026-07",
+      "value": 58
+    },
+    {
       "submarket": "royse",
       "metric": "avg_dom",
       "month": "2021-01",
@@ -20991,13 +21303,19 @@
       "submarket": "royse",
       "metric": "avg_dom",
       "month": "2026-05",
-      "value": 85
+      "value": 89
     },
     {
       "submarket": "royse",
       "metric": "avg_dom",
       "month": "2026-06",
-      "value": 83
+      "value": 84
+    },
+    {
+      "submarket": "royse",
+      "metric": "avg_dom",
+      "month": "2026-07",
+      "value": 73
     },
     {
       "submarket": "luxury",
@@ -21387,13 +21705,19 @@
       "submarket": "luxury",
       "metric": "avg_dom",
       "month": "2026-05",
-      "value": 63
+      "value": 62
     },
     {
       "submarket": "luxury",
       "metric": "avg_dom",
       "month": "2026-06",
       "value": 82
+    },
+    {
+      "submarket": "luxury",
+      "metric": "avg_dom",
+      "month": "2026-07",
+      "value": 59
     },
     {
       "submarket": "fate",
@@ -21765,13 +22089,13 @@
       "submarket": "fate",
       "metric": "closed_sales",
       "month": "2026-02",
-      "value": 24
+      "value": 25
     },
     {
       "submarket": "fate",
       "metric": "closed_sales",
       "month": "2026-03",
-      "value": 47
+      "value": 48
     },
     {
       "submarket": "fate",
@@ -21789,7 +22113,13 @@
       "submarket": "fate",
       "metric": "closed_sales",
       "month": "2026-06",
-      "value": 40
+      "value": 41
+    },
+    {
+      "submarket": "fate",
+      "metric": "closed_sales",
+      "month": "2026-07",
+      "value": 36
     },
     {
       "submarket": "rockwall",
@@ -22173,19 +22503,25 @@
       "submarket": "rockwall",
       "metric": "closed_sales",
       "month": "2026-04",
-      "value": 80
+      "value": 81
     },
     {
       "submarket": "rockwall",
       "metric": "closed_sales",
       "month": "2026-05",
-      "value": 82
+      "value": 83
     },
     {
       "submarket": "rockwall",
       "metric": "closed_sales",
       "month": "2026-06",
-      "value": 106
+      "value": 110
+    },
+    {
+      "submarket": "rockwall",
+      "metric": "closed_sales",
+      "month": "2026-07",
+      "value": 84
     },
     {
       "submarket": "heath",
@@ -22581,7 +22917,13 @@
       "submarket": "heath",
       "metric": "closed_sales",
       "month": "2026-06",
-      "value": 37
+      "value": 38
+    },
+    {
+      "submarket": "heath",
+      "metric": "closed_sales",
+      "month": "2026-07",
+      "value": 31
     },
     {
       "submarket": "mclendon",
@@ -22977,7 +23319,13 @@
       "submarket": "mclendon",
       "metric": "closed_sales",
       "month": "2026-06",
-      "value": 20
+      "value": 21
+    },
+    {
+      "submarket": "mclendon",
+      "metric": "closed_sales",
+      "month": "2026-07",
+      "value": 13
     },
     {
       "submarket": "royse",
@@ -23325,7 +23673,7 @@
       "submarket": "royse",
       "metric": "closed_sales",
       "month": "2025-10",
-      "value": 72
+      "value": 73
     },
     {
       "submarket": "royse",
@@ -23355,7 +23703,7 @@
       "submarket": "royse",
       "metric": "closed_sales",
       "month": "2026-03",
-      "value": 89
+      "value": 91
     },
     {
       "submarket": "royse",
@@ -23367,13 +23715,19 @@
       "submarket": "royse",
       "metric": "closed_sales",
       "month": "2026-05",
-      "value": 104
+      "value": 108
     },
     {
       "submarket": "royse",
       "metric": "closed_sales",
       "month": "2026-06",
-      "value": 78
+      "value": 85
+    },
+    {
+      "submarket": "royse",
+      "metric": "closed_sales",
+      "month": "2026-07",
+      "value": 66
     },
     {
       "submarket": "luxury",
@@ -23763,13 +24117,19 @@
       "submarket": "luxury",
       "metric": "closed_sales",
       "month": "2026-05",
-      "value": 35
+      "value": 36
     },
     {
       "submarket": "luxury",
       "metric": "closed_sales",
       "month": "2026-06",
-      "value": 55
+      "value": 57
+    },
+    {
+      "submarket": "luxury",
+      "metric": "closed_sales",
+      "month": "2026-07",
+      "value": 42
     },
     {
       "submarket": "fate",
@@ -24123,7 +24483,7 @@
       "submarket": "fate",
       "metric": "pct_original_median",
       "month": "2025-11",
-      "value": 92.8
+      "value": 92.2
     },
     {
       "submarket": "fate",
@@ -24141,13 +24501,13 @@
       "submarket": "fate",
       "metric": "pct_original_median",
       "month": "2026-02",
-      "value": 93
+      "value": 92.1
     },
     {
       "submarket": "fate",
       "metric": "pct_original_median",
       "month": "2026-03",
-      "value": 95.4
+      "value": 95.3
     },
     {
       "submarket": "fate",
@@ -24165,7 +24525,13 @@
       "submarket": "fate",
       "metric": "pct_original_median",
       "month": "2026-06",
-      "value": 96.1
+      "value": 95.8
+    },
+    {
+      "submarket": "fate",
+      "metric": "pct_original_median",
+      "month": "2026-07",
+      "value": 93.9
     },
     {
       "submarket": "rockwall",
@@ -24537,7 +24903,7 @@
       "submarket": "rockwall",
       "metric": "pct_original_median",
       "month": "2026-02",
-      "value": 94
+      "value": 93.9
     },
     {
       "submarket": "rockwall",
@@ -24549,19 +24915,25 @@
       "submarket": "rockwall",
       "metric": "pct_original_median",
       "month": "2026-04",
-      "value": 94.5
+      "value": 94.4
     },
     {
       "submarket": "rockwall",
       "metric": "pct_original_median",
       "month": "2026-05",
-      "value": 95.9
+      "value": 95.7
     },
     {
       "submarket": "rockwall",
       "metric": "pct_original_median",
       "month": "2026-06",
-      "value": 95.7
+      "value": 95.3
+    },
+    {
+      "submarket": "rockwall",
+      "metric": "pct_original_median",
+      "month": "2026-07",
+      "value": 95.5
     },
     {
       "submarket": "heath",
@@ -24957,7 +25329,13 @@
       "submarket": "heath",
       "metric": "pct_original_median",
       "month": "2026-06",
-      "value": 96
+      "value": 95.4
+    },
+    {
+      "submarket": "heath",
+      "metric": "pct_original_median",
+      "month": "2026-07",
+      "value": 94.7
     },
     {
       "submarket": "mclendon",
@@ -25353,7 +25731,13 @@
       "submarket": "mclendon",
       "metric": "pct_original_median",
       "month": "2026-06",
-      "value": 93
+      "value": 96
+    },
+    {
+      "submarket": "mclendon",
+      "metric": "pct_original_median",
+      "month": "2026-07",
+      "value": 97.3
     },
     {
       "submarket": "royse",
@@ -25743,13 +26127,19 @@
       "submarket": "royse",
       "metric": "pct_original_median",
       "month": "2026-05",
-      "value": 95.1
+      "value": 94.4
     },
     {
       "submarket": "royse",
       "metric": "pct_original_median",
       "month": "2026-06",
-      "value": 96.3
+      "value": 95.7
+    },
+    {
+      "submarket": "royse",
+      "metric": "pct_original_median",
+      "month": "2026-07",
+      "value": 95.7
     },
     {
       "submarket": "luxury",
@@ -26139,13 +26529,19 @@
       "submarket": "luxury",
       "metric": "pct_original_median",
       "month": "2026-05",
-      "value": 96
+      "value": 95.8
     },
     {
       "submarket": "luxury",
       "metric": "pct_original_median",
       "month": "2026-06",
       "value": 96.6
+    },
+    {
+      "submarket": "luxury",
+      "metric": "pct_original_median",
+      "month": "2026-07",
+      "value": 95.3
     },
     {
       "submarket": "fate",
@@ -26499,7 +26895,7 @@
       "submarket": "fate",
       "metric": "pct_original_avg",
       "month": "2025-11",
-      "value": 92.7
+      "value": 92.4
     },
     {
       "submarket": "fate",
@@ -26523,7 +26919,7 @@
       "submarket": "fate",
       "metric": "pct_original_avg",
       "month": "2026-03",
-      "value": 95
+      "value": 94.8
     },
     {
       "submarket": "fate",
@@ -26541,7 +26937,13 @@
       "submarket": "fate",
       "metric": "pct_original_avg",
       "month": "2026-06",
-      "value": 95
+      "value": 94.9
+    },
+    {
+      "submarket": "fate",
+      "metric": "pct_original_avg",
+      "month": "2026-07",
+      "value": 92.9
     },
     {
       "submarket": "rockwall",
@@ -26925,7 +27327,7 @@
       "submarket": "rockwall",
       "metric": "pct_original_avg",
       "month": "2026-04",
-      "value": 92.7
+      "value": 92.6
     },
     {
       "submarket": "rockwall",
@@ -26937,7 +27339,13 @@
       "submarket": "rockwall",
       "metric": "pct_original_avg",
       "month": "2026-06",
-      "value": 94.2
+      "value": 93.9
+    },
+    {
+      "submarket": "rockwall",
+      "metric": "pct_original_avg",
+      "month": "2026-07",
+      "value": 93.3
     },
     {
       "submarket": "heath",
@@ -27336,6 +27744,12 @@
       "value": 93.5
     },
     {
+      "submarket": "heath",
+      "metric": "pct_original_avg",
+      "month": "2026-07",
+      "value": 93.6
+    },
+    {
       "submarket": "mclendon",
       "metric": "pct_original_avg",
       "month": "2021-01",
@@ -27729,7 +28143,13 @@
       "submarket": "mclendon",
       "metric": "pct_original_avg",
       "month": "2026-06",
-      "value": 92.4
+      "value": 92.7
+    },
+    {
+      "submarket": "mclendon",
+      "metric": "pct_original_avg",
+      "month": "2026-07",
+      "value": 95.2
     },
     {
       "submarket": "royse",
@@ -28077,7 +28497,7 @@
       "submarket": "royse",
       "metric": "pct_original_avg",
       "month": "2025-10",
-      "value": 91.7
+      "value": 91.6
     },
     {
       "submarket": "royse",
@@ -28119,12 +28539,18 @@
       "submarket": "royse",
       "metric": "pct_original_avg",
       "month": "2026-05",
-      "value": 93.3
+      "value": 93.1
     },
     {
       "submarket": "royse",
       "metric": "pct_original_avg",
       "month": "2026-06",
+      "value": 94.5
+    },
+    {
+      "submarket": "royse",
+      "metric": "pct_original_avg",
+      "month": "2026-07",
       "value": 94.7
     },
     {
@@ -28515,13 +28941,19 @@
       "submarket": "luxury",
       "metric": "pct_original_avg",
       "month": "2026-05",
-      "value": 95.8
+      "value": 95.6
     },
     {
       "submarket": "luxury",
       "metric": "pct_original_avg",
       "month": "2026-06",
       "value": 95
+    },
+    {
+      "submarket": "luxury",
+      "metric": "pct_original_avg",
+      "month": "2026-07",
+      "value": 94.7
     },
     {
       "submarket": "fate",
@@ -28917,7 +29349,13 @@
       "submarket": "fate",
       "metric": "months_of_supply",
       "month": "2026-06",
-      "value": 5
+      "value": 4.9
+    },
+    {
+      "submarket": "fate",
+      "metric": "months_of_supply",
+      "month": "2026-07",
+      "value": 5.3
     },
     {
       "submarket": "rockwall",
@@ -29301,19 +29739,25 @@
       "submarket": "rockwall",
       "metric": "months_of_supply",
       "month": "2026-04",
-      "value": 6
+      "value": 6.1
     },
     {
       "submarket": "rockwall",
       "metric": "months_of_supply",
       "month": "2026-05",
-      "value": 5.8
+      "value": 5.9
     },
     {
       "submarket": "rockwall",
       "metric": "months_of_supply",
       "month": "2026-06",
       "value": 5.9
+    },
+    {
+      "submarket": "rockwall",
+      "metric": "months_of_supply",
+      "month": "2026-07",
+      "value": 6
     },
     {
       "submarket": "heath",
@@ -29709,7 +30153,13 @@
       "submarket": "heath",
       "metric": "months_of_supply",
       "month": "2026-06",
-      "value": 8.6
+      "value": 8.4
+    },
+    {
+      "submarket": "heath",
+      "metric": "months_of_supply",
+      "month": "2026-07",
+      "value": 7.7
     },
     {
       "submarket": "mclendon",
@@ -30105,7 +30555,13 @@
       "submarket": "mclendon",
       "metric": "months_of_supply",
       "month": "2026-06",
-      "value": 8
+      "value": 7.8
+    },
+    {
+      "submarket": "mclendon",
+      "metric": "months_of_supply",
+      "month": "2026-07",
+      "value": 8.6
     },
     {
       "submarket": "royse",
@@ -30453,7 +30909,7 @@
       "submarket": "royse",
       "metric": "months_of_supply",
       "month": "2025-10",
-      "value": 7
+      "value": 7.1
     },
     {
       "submarket": "royse",
@@ -30483,25 +30939,31 @@
       "submarket": "royse",
       "metric": "months_of_supply",
       "month": "2026-03",
-      "value": 6.3
+      "value": 6.4
     },
     {
       "submarket": "royse",
       "metric": "months_of_supply",
       "month": "2026-04",
-      "value": 6.3
+      "value": 6.4
     },
     {
       "submarket": "royse",
       "metric": "months_of_supply",
       "month": "2026-05",
-      "value": 6.1
+      "value": 6.2
     },
     {
       "submarket": "royse",
       "metric": "months_of_supply",
       "month": "2026-06",
-      "value": 6.1
+      "value": 6.3
+    },
+    {
+      "submarket": "royse",
+      "metric": "months_of_supply",
+      "month": "2026-07",
+      "value": 7
     },
     {
       "submarket": "luxury",
@@ -30861,7 +31323,7 @@
       "submarket": "luxury",
       "metric": "months_of_supply",
       "month": "2025-12",
-      "value": 6.8
+      "value": 6.9
     },
     {
       "submarket": "luxury",
@@ -30879,7 +31341,7 @@
       "submarket": "luxury",
       "metric": "months_of_supply",
       "month": "2026-03",
-      "value": 7.3
+      "value": 7.4
     },
     {
       "submarket": "luxury",
@@ -30891,13 +31353,19 @@
       "submarket": "luxury",
       "metric": "months_of_supply",
       "month": "2026-05",
-      "value": 7.2
+      "value": 7.3
     },
     {
       "submarket": "luxury",
       "metric": "months_of_supply",
       "month": "2026-06",
-      "value": 7.4
+      "value": 7.3
+    },
+    {
+      "submarket": "luxury",
+      "metric": "months_of_supply",
+      "month": "2026-07",
+      "value": 7.1
     }
   ]
 }
